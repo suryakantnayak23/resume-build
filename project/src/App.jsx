@@ -127,8 +127,8 @@ function App() {
           >
             <h1 className="glowing-text">SURYAKANTA NAYAK</h1>
             <div className="contact-info">
-              <motion.p whileHover={{scale: 1.1}}>+91-8917488538</motion.p>
-              <motion.p whileHover={{scale: 1.1}}>suryakantanayak03@gmail.com</motion.p>
+              <motion.p whileHover={{scale: 1.1}}>+91-8917686309</motion.p>
+              <motion.p whileHover={{scale: 1.1}}>suryakantanayak40@gmail.com</motion.p>
               <motion.p whileHover={{scale: 1.1}}>Bhubaneswar, Odisha-751030</motion.p>
             </div>
           </motion.div>
