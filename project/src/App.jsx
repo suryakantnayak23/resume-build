@@ -240,7 +240,7 @@ function App() {
                 whileHover={{scale: 1.02}}
             >
               <h3>Software Developer at Think talent services (Bhubaneswar, Odisha)</h3>
-              <p>September 2023 - present</p>
+              <p>September 2023 - 2024</p>
               <ul>
                 <li>I worked at Think Talent Services, focusing on LMS tool APIs
                   Designed APIs, structured JSON lists, and single JSON objects efficiently by understanding business
@@ -270,9 +270,9 @@ function App() {
               <h3>B.Tech - Electrical engineering</h3>
               <p>Institute of Technical education and research, Bhubaneswar</p>
               <p>2019 - 2023</p>
-              <p>CGPA: 8.1</p>
+              <p>CGPA: 7.4</p>
             </motion.div>
-            <motion.div
+{/*             <motion.div
                 className="education-item"
                 whileHover={{scale: 1.02}}
             >
@@ -281,7 +281,7 @@ function App() {
               <p>Naidu +2 Science college,  Bhubaneswar,Odisha</p>
               <p>2016 - 2018</p>
               <p>CGPA: 8.9</p>
-            </motion.div>
+            </motion.div> */}
           </section>
         </Tilt>
 
