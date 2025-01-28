@@ -169,7 +169,7 @@ function App() {
                             transition={{ duration: 0.3 }}
                         >
                             {activeTab === "phone" && <motion.p whileHover={{ scale: 1.1 }}>+91-8917686309</motion.p>}
-                            {activeTab === "email" && <motion.p whileHover={{ scale: 1.1 }}>suryakantanayak40@gmail.com</motion.p>}
+                            {activeTab === "email" && <motion.p whileHover={{ scale: 1.1 }}>suryakantnayak40@gmail.com</motion.p>}
                             {activeTab === "address" && <motion.p whileHover={{ scale: 1.1 }}>Bhubaneswar, Odisha-751030</motion.p>}
                         </motion.div>
                     </div>
